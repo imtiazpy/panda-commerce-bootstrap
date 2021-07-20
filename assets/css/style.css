@@ -1,3 +1,43 @@
-.carousel-bg {
+.panda-custom-bg {
   background-color: #feeae9;
+}
+
+.panda-btn {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
+#categories img {
+  width: 100px;
+}
+
+.cat-1 {
+  background-color: orange;
+}
+.cat-2 {
+  background-color: orchid;
+}
+.cat-3 {
+  background-color: blue;
+}
+
+.cat-1,
+.cat-2,
+.cat-3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+
+.panda-card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgrey;
+}
+
+#subscribe {
+  height: 300px;
+  border-radius: 10px;
 }
